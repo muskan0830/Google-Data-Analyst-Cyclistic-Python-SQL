@@ -1,5 +1,5 @@
 # Python:
-## Bike Sharing Data Integration and Cleaning Project
+## Cyclistic Data Integration and Cleaning Project
 
 ### Introduction:
 This project focuses on integrating and cleaning data from multiple CSV files obtained from a bike sharing service. The aim is to create a unified dataset that can be used for further analysis and insights generation. The dataset consists of information regarding bike trips, including start and end times, stations, and geographical coordinates.
